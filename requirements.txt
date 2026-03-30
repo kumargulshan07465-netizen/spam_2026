@@ -1,4 +1,4 @@
 pandas
 joblib
 numpy
-streamlit
+skicit-learn
